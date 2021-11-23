@@ -1,0 +1,10 @@
+@font-face {
+   font-family: 'aAsianHiro';
+   font-display: swap;
+   src: url('aAsianHiro/font.ttf');
+}
+@font-face {
+   font-family: 'monofonto';
+   font-display: swap;
+   src: url('monofonto/font.ttf');
+}
